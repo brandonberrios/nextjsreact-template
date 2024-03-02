@@ -1,1 +1,0 @@
-# nextjsreact-template
