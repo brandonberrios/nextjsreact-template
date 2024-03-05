@@ -4,15 +4,12 @@ export function Jumbotron({ onClick }) {
   return (
     <Row>
       <Col>
-        <h1>Here</h1>
+        <h1>My own react template</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam
-          tenetur magni veniam eos provident commodi dolore molestias, molestiae
-          nemo ab rem? Numquam, totam accusamus! Fugiat aspernatur id voluptas
-          omnis facere!
+          Made By Brandon Berrios
         </p>
         <Button variant="primary" onClick={onClick}>
-          CTA
+          Click Here
         </Button>
       </Col>
     </Row>
